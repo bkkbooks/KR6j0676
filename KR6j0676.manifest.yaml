@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0676_000.yaml, hash: 'sha256:cb2db0351c8842aa76f28da31980e322e4429af93c00bd7a2910d78faf9ef751'}
+  - {seq: 0, filename: KR6j0676_000.yaml, hash: 'sha256:8e59c24206ddc278f69480ed5bd113606a68429ebda6d0532048f85c2d81461d'}
   - {seq: 1, filename: KR6j0676_001.yaml, hash: 'sha256:0d064ecba7bd13929e8d8f7914b83d85fa7f81ca9468aa4fc1e47e68c60b135a'}
   - {seq: 2, filename: KR6j0676_002.yaml, hash: 'sha256:db714897ec88d4cda4640b53257933ce0fab23981e0447039b80fe5e957ac278'}
   - {seq: 3, filename: KR6j0676_003.yaml, hash: 'sha256:c4762553e287c8d3887b4f73e3a2dd158d506b23107f9f0959bd265c5addb723'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6j0676_009.yaml, hash: 'sha256:963407b3998ffdfbf87a99a95b0cdbfa051ea3a4374aa3d1757cb42e1f8562b1'}
   - {seq: 10, filename: KR6j0676_010.yaml, hash: 'sha256:f7d3d563163d2416010dbd3d953bc8ad86b6b247ce9d0c5ca6fbbf2f31800c17'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0676_000.markers.yaml, hash: 'sha256:3a781e8c1310d74158e331896aa6cc8662deae450f826d4c71c8f4fc6fff281f'}
+  - {seq: 0, role: markers, filename: assets/KR6j0676_000.markers.yaml, hash: 'sha256:950e8bd5e266d77e8724616d7301af3a01966f96f04ff052308953379f9557c7'}
   - {seq: 1, role: markers, filename: assets/KR6j0676_001.markers.yaml, hash: 'sha256:96b6151798ea67248a788c9447eb810f39b547537807670bd8245504dbae859c'}
   - {seq: 2, role: markers, filename: assets/KR6j0676_002.markers.yaml, hash: 'sha256:285c872988a456c51a4a7c3bb9e594f59d12d1bb207542421c348f82311fb891'}
   - {seq: 3, role: markers, filename: assets/KR6j0676_003.markers.yaml, hash: 'sha256:da9da32ce3a6263824f4b94d4884a8ac3fe00c7230adf05f0e4b48f621b2d233'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 268-A 楞嚴集註序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-2
     span:
-    - front
+    - body
     - 350
     - 350
   label: No. 268-B 楞嚴集註後敘
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-3
     span:
-    - front
+    - body
     - 1673
     - 1673
   label: No. 268-C 楞嚴集註敘
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-4
     span:
-    - front
+    - body
     - 1807
     - 1807
   label: No. 268-D 楞嚴集註序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-5
     span:
-    - front
+    - body
     - 2049
     - 2049
   label: No. 268-E 大佛頂首楞嚴經釋題
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-6
     span:
-    - front
+    - body
     - 2075
     - 2075
   label: 前文
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-7
     span:
-    - front
+    - body
     - 2127
     - 2127
   label: 第一釋名
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-8
     span:
-    - front
+    - body
     - 2174
     - 2174
   label: 初釋別名
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-9
     span:
-    - front
+    - body
     - 2201
     - 2201
   label: 初大佛頂祕呪名
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-10
     span:
-    - front
+    - body
     - 2481
     - 2481
   label: 二如來等顯了名
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-11
     span:
-    - front
+    - body
     - 2730
     - 2730
   label: 二釋通名
@@ -159,7 +159,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-12
     span:
-    - front
+    - body
     - 2819
     - 2819
   label: 第二辯體
@@ -169,7 +169,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-13
     span:
-    - front
+    - body
     - 3029
     - 3029
   label: 第三明宗
@@ -179,7 +179,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-14
     span:
-    - front
+    - body
     - 3254
     - 3254
   label: 第四論用
@@ -189,7 +189,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-15
     span:
-    - front
+    - body
     - 3319
     - 3319
   label: 第五判教相
@@ -199,7 +199,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-16
     span:
-    - front
+    - body
     - 3327
     - 3327
   label: 初正說
@@ -209,7 +209,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-17
     span:
-    - front
+    - body
     - 3569
     - 3569
   label: 二義證
@@ -219,7 +219,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-18
     span:
-    - front
+    - body
     - 3834
     - 3834
   label: 三釋疑問
@@ -229,7 +229,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-19
     span:
-    - front
+    - body
     - 4626
     - 4626
   label: 四異見
@@ -239,7 +239,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-20
     span:
-    - front
+    - body
     - 4631
     - 4631
   label: 初判歸方等
@@ -249,7 +249,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-21
     span:
-    - front
+    - body
     - 4862
     - 4862
   label: 二判歸般若
@@ -259,7 +259,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-22
     span:
-    - front
+    - body
     - 5178
     - 5178
   label: 私議
@@ -269,7 +269,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-23
     span:
-    - front
+    - body
     - 5605
     - 5605
   label: 首楞嚴經釋題北峰印法師引用文目
@@ -279,7 +279,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-24
     span:
-    - front
+    - body
     - 5684
     - 5684
   label: 正經集註桐洲坦法師引用文目
@@ -289,7 +289,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-25
     span:
-    - front
+    - body
     - 5782
     - 5782
   label: No. 268-F 首楞嚴經指文科節
@@ -299,7 +299,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0676_X_000-mulu-26
     span:
-    - front
+    - body
     - 9124
     - 9124
   label: 楞嚴經集註
@@ -26515,7 +26515,7 @@ table_of_contents:
   label: 二經家結流通
   type: mulu
   level: 1
-hash: sha256:914c455a3127f846842abe1348b1c5ff56ed137162ea73598e848c7322912c3e
+hash: sha256:51204fad15acbf1910b3e89de2f105ba9d60aebfe6a9994fd0eb69fbef821142
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
